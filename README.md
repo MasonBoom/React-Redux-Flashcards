@@ -45,16 +45,16 @@ The main page will only show the navbar at the top of the screen. From there, th
 
 When the user creates a new topic, they can choose a custom name for it and select an icon that represents said topic. they will then be displayed on the `/topics` screen.
 
-[topics](!https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_36_41%20AM.png)
+![topics](https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_36_41%20AM.png)
 
 Next, the user can create a quiz for the topic they have made. If the user attempts to make a quiz without the topic or name, they will not be able to proceed.
 
-[createquiz](!https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_40_30%20AM.png)
+![createquiz](https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_40_30%20AM.png)
 
 The quizzes made by the user will then be displayed on the `/quizzes` screen
 
-[quizzes](!https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_41_00%20AM.png)
+![quizzes](https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_41_00%20AM.png)
 
 Once a user clicks on a quiz they want to study for, the cards for that quiz will appear on their screen, and they can flip the card by clicking on it.
 
-[cards](!https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_41_15%20AM.png)
+![cards](https://github.com/MasonBoom/React-Redux-Flashcards/blob/7563c4bcc514fdf6afcc940c83a49e31258b89ec/images/React%20App%20-%20Google%20Chrome%203_18_2022%207_41_15%20AM.png)
