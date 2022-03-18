@@ -1,6 +1,6 @@
 # To Run
 
-Run `npm start` in the project root and the app will be available on port 3000.
+Run `npm install` to download the node_modules folder and then run `npm start` in the project root and the app will be available on port 3000.
 
 # State
 
