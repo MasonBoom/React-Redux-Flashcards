@@ -15,6 +15,22 @@ The app's state is totally normalized, with slices for topics, quizzes, and card
 - `/quizzes` – index of all quizzes
 - `/quizzes/:quizId` – page for an individual quiz
 
+# Technologies
+
+* Javscript
+* Node.js
+* Codecademy
+* Markdown
+* Github
+* React
+* Redux
+
+# Features
+
+* Create Topics for Quizzes
+* Create Quizzes
+* Create Cards in the Quizzes to that have a question and answer to study
+
 # To Test
 
 1. Create topics
