@@ -6,10 +6,6 @@ This is a flashcard application that not only allows students to create quizzes 
 
 Run `npm install` to download the node_modules folder and then run `npm start` in the project root and the app will be available on port 3000.
 
-## State
-
-The app's state is totally normalized, with slices for topics, quizzes, and cards.
-
 ## Routes
 
 - `/new-topic` – form to create a new topic
